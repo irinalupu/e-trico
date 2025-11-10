@@ -32,11 +32,11 @@ pluralizelisttitles = false
     url        = "/"
     weight     = 1
 
-[[menu.main]]
-    name       = "Informatievideos"
-    identifier = "menu.informatievideos"
-    url        = "/informatievideos/"
-    weight     = 2
+# [[menu.main]]
+#     name       = "Informatievideos"
+#     identifier = "menu.informatievideos"
+#     url        = "/informatievideos/"
+#     weight     = 2
 
 [[menu.main]]
     identifier = "contact"
@@ -79,7 +79,7 @@ pluralizelisttitles = false
     longitude = "-77.028333"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "green"
+    style = "red"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -143,9 +143,9 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contacteer ons via +32 478 93 83 13 of info@e-trico.be.</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+    text = """<p class="hidden-sm hidden-xs"></p>
+      <p class="hidden-md hidden-lg"><a href="tel:+32 478 93 83 13" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <a href="mailto:info@e-trica.be" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 
@@ -200,7 +200,7 @@ pluralizelisttitles = false
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.

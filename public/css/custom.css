@@ -1,6 +1,15 @@
 /* your styles go here */
 /* Example site test */
-
+:root {
+  --primary-accent: #eb690a;
+  --navbar-border-top: #d66011;
+  --button-border: #d66011;
+  --link-focus: #d66011;
+  --form-shadow: rgba(218, 77, 77, 0.6);
+  --pagination-bg: #eb690ab8;
+  --link-hover-bg: #ca2a2a;
+  --navbar-focus: #eb690ab8;
+}
 .box-image-text .image {
     min-height: 190px;
     max-height: 190px;
