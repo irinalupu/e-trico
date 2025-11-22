@@ -130,9 +130,9 @@ pluralizelisttitles = false
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>E-Trico</strong>
-        <br>Alarmstraat 42
-        <br>9400 Okegem
-        <br>Beglium
+        <br>Steenberg 1
+        <br>1760 Roosdaal
+        <br>Belgium
         <br>
       </p>
       """
