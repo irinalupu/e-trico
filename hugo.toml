@@ -116,6 +116,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Een passie voor service en technologie in dienst van uw veiligheid.</p>"
+    "Vergunde onderneming voor alarmsystemen en camerasystemen volgens KBO 0786767097"
     copyright = "Copyright (c) 2025, E-Trico; all rights reserved."
 
     # Format dates with Go's time formatting
